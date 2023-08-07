@@ -1,13 +1,43 @@
 # EV_Sales_Analysis
-Analyzing sales drop & email campaigns of Zoom Electric's Sprint e-scooters. Understanding causes & growth patterns.
-Electric Vehicle Sales Drop Analysis
-This project aims to analyze the sudden decline in sales of Zoom Electric's "Sprint" electric scooters after its initial impressive launch. The analysis focuses on understanding the likely cause of the sales drop and includes two main phases:
+Cracking the Electric Vehicle Sales Mystery - Understanding Why Sales Dropped
 
-Quantifying the Sales Drop:
-To gain insight into the extent of the sales drop, the cumulative sales volume of the Sprint scooters is examined over a rolling 7-day period. The analysis uses SQL queries to calculate the change in cumulative sales volume between two consecutive dates, determining the percentage decline. This step is crucial for identifying any potential issues or trends affecting sales.
+Project Overview:
+Join us on this SQL-based adventure with bluetick.ai as we dive into the mystery behind Zoom Electric's Sprint scooter sales drop. Our mission is to figure out why the sales of the newly launched Sprint scooter suddenly declined and find the factors that might have affected sales.
 
-Comparing Sales Growth:
-The project compares the sales growth of the Sprint model with other scooter variants to assess if there is a relationship between the launch date and sales performance in the first two to three weeks. By analyzing sales data of other scooter models launched in the first half of the year and comparing them to Sprint's performance, the project aims to validate the assumption about the impact of the launch date.
+The Puzzle:
+Zoom Electric was thrilled by the impressive sales of the Sprint scooter in the first two weeks after its launch. However, they were puzzled when the sales unexpectedly dropped afterwards. Our quest is to find the missing pieces of this puzzle.
 
-Email Campaign Analysis:
-The project also includes an analysis of the email marketing campaign for the Sprint scooters. By tracking email sent, open, click, and bounce rates, it aims to provide insights into the effectiveness of the email marketing strategy in engaging potential customers and driving sales.
+Our Approach:
+We will use a step-by-step approach in our investigation:
+
+Quantifying the Sales Drop: We will calculate the decrease in sales volume over a 7-day period to confirm the sales drop.
+
+Comparing Sales Growth: By analyzing sales data of other scooter models, we will see if the launch date had an impact on sales in the first two to three weeks.
+
+Email Campaign Analysis: We will study the email campaign's effect on customer engagement and overall success.
+
+Our Tools:
+We will use SQL codes to perform different analyses, such as growth analysis for Sprint scooters, joining sales and products table, and analyzing the email campaign.
+
+Discoveries:
+After analyzing the data, we have some exciting findings:
+
+Impressive Start: The Sprint scooter sales had a great start, with remarkable sales during the initial two weeks.
+
+Mysterious Drop: Surprisingly, there was a sudden decline of around 20% in sales after the first two weeks.
+
+Timing Matters: Launching the Sprint scooter in the second half of the year may have influenced the sales growth.
+
+Email Insights: We learned valuable information about the email campaign's impact on customer engagement, click-through rates, and open rates.
+
+Next Steps:
+Based on our discoveries, we suggest focusing on the timing of launches, improving marketing campaigns, and considering product enhancements to boost sales.
+
+Project Lead: KINZA NISAR
+
+Contact Us:
+If you have any questions or insights about this investigation, please contact kinzanisar9@gmail.com. Let's continue our journey to unravel more mysteries!
+
+
+
+
